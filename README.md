@@ -7,3 +7,6 @@
 ### [**GIT Terminology**](/GitT.md) 
 
 ### [**References**](/Ref.md)
+###
+###
+### [Changelog](/change.md)
