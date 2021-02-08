@@ -1,11 +1,9 @@
 # **GitFlow, Workflow and The Terminology**
-###### By: Olushola Sadiq Anifowose and Ricardo Torres 
+###### By: Ricardo Torres and Olushola Sadiq Anifowose 
 ## **Table of Context** 
 
-### [**GitFlow**](/GitF.md)
+### [**GITflow Workflow**](/GitF.md)
 
-### [**WorkFlow**](/WorkF.md)
-
-### [**Git Terminology**](/GitT.md) 
+### [**GIT Terminology**](/GitT.md) 
 
 ### [**References**](/Ref.md)
