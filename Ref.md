@@ -4,4 +4,3 @@
 - ##### https://www.cs.colostate.edu/helpdocs/vi.html
 - ##### https://www.markdownguide.org/basic-syntax#headings
 - ##### https://guides.github.com/features/mastering-markdown/#what
-- ##### 
