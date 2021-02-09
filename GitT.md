@@ -5,6 +5,10 @@
        ####
      **Example:**
       ![Repository Ex](https://guides.github.com/activities/hello-world/create-new-repo.png)
+     
+      **Example 2:**
+       ![Repository EX](https://docs.microsoft.com/th-th/azure/devops/learn/_img/git_repositories.png)
+    
 
 - ### Clone
   * **Definition:** A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. When you make a clone, you can edit the files in your preferred editor and use Git to keep track of your changes without having to be online. The repository you cloned is still connected to the remote version so that you can push your local changes to the remote to keep them synced when you're online.
