@@ -15,13 +15,16 @@
     ####
      **Example:**
     ![Clone Ex](https://miro.medium.com/max/507/0*LsQht149BNbsiv5x.png)
+    
+     **Example 2**
+    ![Clone Ex](https://bobbelderbos.com/assets/git-clone.png)
 
 - ### Fork
   * **Definition:** A fork is a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original upstream repository. You can also open a pull request in the upstream repository and keep your fork synced with the latest changes since both repositories are still connected.
     ####
     **Example:**
     ![Fork Ex](https://www.earthdatascience.org/images/earth-analytics/git-version-control/git-fork-emphasis.png)
-
+    
 - ### Branch  
   * **Definition:** A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the main branch to publish your changes.
     ####  
